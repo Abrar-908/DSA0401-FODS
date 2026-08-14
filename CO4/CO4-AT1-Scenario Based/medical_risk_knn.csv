@@ -1,0 +1,7 @@
+Patient,Age,Blood_Sugar_Level,Fever,Cough,Fatigue,Class
+P1,25,90,0,0,0,Low Risk
+P2,30,95,0,1,0,Low Risk
+P3,50,160,1,1,1,High Risk
+P4,55,170,1,1,1,High Risk
+P5,40,120,0,1,1,Low Risk
+P6,60,180,1,1,1,High Risk

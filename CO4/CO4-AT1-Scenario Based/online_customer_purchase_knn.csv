@@ -1,0 +1,7 @@
+Customer,Age,Previous_Purchases,Mobile_User,Added_to_Cart,Used_Coupon,Class
+C1,22,2,1,0,1,No Purchase
+C2,25,3,1,1,1,No Purchase
+C3,35,5,1,1,0,Purchase
+C4,40,6,1,1,0,Purchase
+C5,28,4,0,1,1,No Purchase
+C6,45,7,1,1,0,Purchase

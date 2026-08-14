@@ -1,0 +1,7 @@
+Employee,Experience_Years,Satisfaction_Score,Overtime,Promotion_Received,Workplace_Conflict,Class
+E1,2,8,0,1,0,Stay
+E2,3,7,0,1,0,Stay
+E3,6,3,1,0,1,Leave
+E4,7,2,1,0,1,Leave
+E5,4,6,0,0,0,Stay
+E6,8,2,1,0,1,Leave

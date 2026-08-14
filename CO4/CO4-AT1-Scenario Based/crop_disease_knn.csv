@@ -1,0 +1,7 @@
+Plant,Leaf_Spot_Count,Leaf_Color_Index,Yellow_Leaves,White_Fungus,Wilting,Class
+L1,2,80,0,0,0,Healthy
+L2,3,75,0,0,0,Healthy
+L3,12,40,1,1,1,Diseased
+L4,15,35,1,1,1,Diseased
+L5,5,70,0,0,1,Healthy
+L6,14,38,1,1,1,Diseased

@@ -1,0 +1,7 @@
+User,Action_Rating,Comedy_Rating,Watched_Superhero,Watched_Standup,Watched_Sitcom,Class
+U1,5,1,1,0,0,Action Lover
+U2,4,2,1,0,0,Action Lover
+U3,1,5,0,1,1,Comedy Lover
+U4,2,4,0,1,1,Comedy Lover
+U5,5,2,1,0,0,Action Lover
+U6,1,4,0,1,1,Comedy Lover

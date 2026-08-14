@@ -1,0 +1,7 @@
+Record,Packets_Per_Second,Failed_Login_Attempts,Unknown_Port_Used,Admin_Access_Tried,Blacklisted_IP,Class
+N1,20,0,0,0,0,Normal
+N2,30,1,0,0,0,Normal
+N3,100,5,1,1,1,Attack
+N4,120,6,1,1,1,Attack
+N5,40,1,0,0,0,Normal
+N6,110,7,1,1,1,Attack

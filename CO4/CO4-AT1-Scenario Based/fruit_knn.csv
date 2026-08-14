@@ -1,0 +1,7 @@
+Fruit,Weight,Diameter,Red_Color,Citrus_Smell,Smooth_Skin,Class
+F1,150,7,1,0,1,Apple
+F2,160,8,1,0,1,Apple
+F3,180,9,0,1,0,Orange
+F4,200,10,0,1,0,Orange
+F5,155,7.5,1,0,1,Apple
+F6,190,9.5,0,1,0,Orange
